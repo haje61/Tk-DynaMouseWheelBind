@@ -2,6 +2,7 @@ use ExtUtils::MakeMaker;
 
 use strict;
 my %prereq = (
+	'Test::Tk'            => '3.03',
 	'Tk'                  => '804.023',
 );
 
